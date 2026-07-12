@@ -49,7 +49,7 @@ I am a third-year **Artificial Intelligence & Computer Science** student at **EN
 
 My work sits at the intersection of **machine learning**, **full-stack engineering**, and **product design**. I have built clinical digitisation platforms deployed on-premise in hospitals, AI-powered warehouse systems commissioned after national hackathons, and privacy-preserving federated learning pipelines that keep biometric data on-device.
 
-I founded **NavigUI** through the **V2V Incubator at ENSIA** — an AI-powered indoor navigation platform for visually impaired users — and have placed **1st** at three national ideathons while continuing to deliver real-client freelance projects across Algeria.
+I founded **Navigui** through the **V2V Incubator at ENSIA** — an AI-powered indoor navigation platform for visually impaired users — and have won or placed top-3 at four national hackathons and ideathons while continuing to deliver real-client freelance projects across Algeria.
 
 I do not just prototype models. I ship systems that survive real constraints: RBAC, on-premise deployment, offline sync, French clinical workflows, and investor-ready business models.
 
@@ -267,7 +267,7 @@ AI-powered indoor navigation platform for visually impaired users — startup fo
 
 **Stack:** Flutter · Flask · PostgreSQL · BLoC/Cubit · Trilingual UI
 
-`Private Repository` — [Contact for access](mailto:afaf.khadraoui@ensia.edu.dz)
+`Private Repository`
 
 </td>
 </tr>
@@ -299,6 +299,54 @@ Clinical digitisation platform for bronchoscopy workflows at EPH Rouiba Hospital
 
 <br/>
 
+<!-- Project Card: ORCA -->
+<table>
+<tr>
+<td width="35%" align="center" valign="top">
+<br/>
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" width="40" alt="Python"/>
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" width="40" alt="React"/>
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rust.png" width="40" alt="Rust"/>
+</td>
+<td width="65%" valign="top">
+
+### ORCA — Cyber Incident Response & Maturity Cockpit
+Built during the InnoByte Hackathon (2nd Place). A 3-component cyber security incident reporting cockpit featuring triage and routing, phishing simulation, DLP logging, gamified training, and an ML risk engine.
+
+**Stack:** Python/Django (58 REST API endpoints) · PostgreSQL (Supabase) · TypeScript/React · Rust (Tauri 2 desktop shell) · Chrome Manifest V3 Extension
+
+[![Repository](https://img.shields.io/badge/View_on_GitHub-0B1020?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohaneddz/ORCA)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- Project Card: PeekABoo WMS -->
+<table>
+<tr>
+<td width="35%" align="center" valign="top">
+<br/>
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/flutter.png" width="40" alt="Flutter"/>
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/flask.png" width="40" alt="Flask"/>
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" width="40" alt="PostgreSQL"/>
+</td>
+<td width="65%" valign="top">
+
+### PeekABoo — Mobile WMS for BMS Electric
+Built during the MobAI Hackathon (3rd Place). AI-powered mobile warehouse management system supporting offline sync, multi-role RBAC, demand forecasting (ARIMA / exponential smoothing), and a shortest-path picking optimiser. Team invited post-hackathon to build the production WMS/TMS.
+
+**Stack:** Flutter · Flask · PostgreSQL · ARIMA · Shortest Path Optimisation
+
+[![Repository](https://img.shields.io/badge/View_on_GitHub-0B1020?style=for-the-badge&logo=github&logoColor=white)](https://github.com/meldoyinmyhead/mobai-warehouse-PeekABoo)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
 <!-- Project Card: AI Driving Behavior -->
 <table>
 <tr>
@@ -314,7 +362,7 @@ Physics-based risk labelling with 226 temporal features from 10s overlapping win
 
 **Stack:** Python · XGBoost · CatBoost · Feature Engineering
 
-`Repository — ENSIA / CDTA team project`
+[![Repository](https://img.shields.io/badge/View_on_GitHub-0B1020?style=for-the-badge&logo=github&logoColor=white)](https://github.com/meldoyinmyhead/Data-Mining-Project)
 
 </td>
 </tr>
@@ -391,6 +439,28 @@ Box-Jenkins ARIMA methodology: ADF/KPSS stationarity tests, ACF/PACF analysis, 1
 
 <br/>
 
+<!-- Project Card: ACSF1 / WEASEL Appliance Classification -->
+<table>
+<tr>
+<td width="35%" align="center" valign="top">
+<br/>
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/r.png" width="40" alt="R"/>
+</td>
+<td width="65%" valign="top">
+
+### Appliance Classification from Power Traces
+Achieved 92% accuracy classifying appliances from 1-hour power traces using WEASEL 2.0. Extracted frequency domain features via SFA (DFT + entropy binning) over dilated windows, then classified via word-histogram and logistic regression. Outperformed WEASEL 1.0 (64%), SVM-RBF (62%), Random Forest (60%), and 1-NN DTW (55%).
+
+**Stack:** R · Time-Series Classification · Google Colab
+
+[![Repository](https://img.shields.io/badge/View_on_GitHub-0B1020?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AfafKhadraoui/Acsf1-Appliance-classification)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
 <!-- Project Card: FarmHub -->
 <table>
 <tr>
@@ -426,6 +496,7 @@ Full-featured farm management platform: crop tracking, livestock records, invent
 
 | Event | Year | Result | Project |
 |:------|:----:|:------:|:--------|
+| **InnoByte Hackathon** (ByteCraft Club) | 2026 | **2nd Place** | Built ORCA — incident reporting, phishing simulation & cyber maturity cockpit |
 | **SolveX 2.0 Ideathon** | 2025 | **1st Place** | Amanar — AI-powered sustainable tourism for Algeria's Sahara |
 | **Eunoia Ideathon** (Skill & Tell, ENSIA) | 2025 | **1st Place** | Healthy Recovery Breaks on Campus — AI-assisted student wellness |
 | **MobAI Hackathon 3rd Edition** | Feb 2026 | **3rd Place** | AI-powered mobile WMS for BMS Electric — invited to production WMS/TMS |
@@ -522,8 +593,8 @@ Full-featured farm management platform: crop tracking, livestock records, invent
 
 | Fact | Detail | Fact | Detail |
 |:-----|:-------|:-----|:-------|
-| **Startup Founder** | NavigUI via V2V Incubator | **Production AI** | Hospital, warehouse, e-commerce |
-| **3× Competition Winner** | ideathons & hackathons | **AI Engineering** | End-to-end systems at scale |
+| **Startup Founder** | Navigui via V2V Incubator | **Production AI** | Hospital, warehouse, e-commerce |
+| **4× Competition Winner** | ideathons & hackathons | **AI Engineering** | End-to-end systems at scale |
 | **Multilingual** | Arabic · French · English · Turkish | **IoT Certified** | Sirius Net (Sep 2025) |
 | **EBEC Club** | Information Co-Manager (2024) | **Full-Stack & Mobile** | Flutter · Next.js · Flask |
 
@@ -551,6 +622,10 @@ Full-featured farm management platform: crop tracking, livestock records, invent
 
 
 <br/><br/>
+
+📧 **Email:** [afaf.khadraoui@ensia.edu.dz](mailto:afaf.khadraoui@ensia.edu.dz)
+
+<br/>
 
 <sub>Open to collaborations on AI systems, full-stack products, and research-driven engineering.</sub>
 
