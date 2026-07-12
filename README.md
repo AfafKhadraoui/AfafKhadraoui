@@ -501,7 +501,7 @@ Full-featured farm management platform: crop tracking, livestock records, invent
 | **Eunoia Ideathon** (Skill & Tell, ENSIA) | 2025 | **1st Place** | Healthy Recovery Breaks on Campus — AI-assisted student wellness |
 | **MobAI Hackathon 3rd Edition** | Feb 2026 | **3rd Place** | AI-powered mobile WMS for BMS Electric — invited to production WMS/TMS |
 | **NCS Hack 2.0** | 2025 | Participant | Tejarati — AI platform for Algerian e-commerce logistics & analytics |
-| **Algiers Up Hackathon** (ESI) | 2025 | Participant | CertiGuard — AI + blockchain diploma verification |
+| **Algiers Up Hackathon** (ESI) | 2026 | Participant | CertiGuard — AI + blockchain diploma verification |
 
 </div>
 
