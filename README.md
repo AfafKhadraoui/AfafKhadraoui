@@ -449,13 +449,13 @@ Full-featured farm management platform: crop tracking, livestock records, invent
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AfafKhadraoui&show_icons=true&theme=transparent&hide_border=true&bg_color=0B1020&title_color=E2E8F0&text_color=94A3B8&icon_color=6366F1&border_radius=12&rank_icon=percentile" width="48%" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.shion.dev/api?username=AfafKhadraoui&show_icons=true&theme=transparent&hide_border=true&bg_color=0B1020&title_color=E2E8F0&text_color=94A3B8&icon_color=6366F1&border_radius=12&rank_icon=percentile" width="48%" alt="GitHub Stats"/>
 &nbsp;
-<img src="https://streak-stats.demolab.com?user=AfafKhadraoui&theme=transparent&hide_border=true&background=0B1020&stroke=4338CA&ring=6366F1&fire=6366F1&currStreakLabel=E2E8F0&sideLabels=94A3B8&currStreakNum=E2E8F0&sideNums=E2E8F0&dates=64748B" width="48%" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AfafKhadraoui&theme=transparent&hide_border=true&background=0B1020&stroke=4338CA&ring=6366F1&fire=6366F1&currStreakLabel=E2E8F0&sideLabels=94A3B8&currStreakNum=E2E8F0&sideNums=E2E8F0&dates=64748B" width="48%" alt="GitHub Streak"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AfafKhadraoui&layout=compact&theme=transparent&hide_border=true&bg_color=0B1020&title_color=E2E8F0&text_color=94A3B8&border_radius=12&langs_count=8" width="58%" alt="Top Languages"/>
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=AfafKhadraoui&layout=compact&theme=transparent&hide_border=true&bg_color=0B1020&title_color=E2E8F0&text_color=94A3B8&border_radius=12&langs_count=8" width="58%" alt="Top Languages"/>
 
 </div>
 
@@ -488,7 +488,7 @@ Full-featured farm management platform: crop tracking, livestock records, invent
 
 <p><sub>A three-dimensional view of my open-source activity on GitHub</sub></p>
 
-<img src="https://github-profile-3d-contrib.vercel.app/profile?username=AfafKhadraoui&theme=night_rainbow" width="100%" alt="3D GitHub Contribution Graph"/>
+<img src="https://raw.githubusercontent.com/AfafKhadraoui/AfafKhadraoui/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D GitHub Contribution Graph"/>
 
 </div>
 
@@ -504,7 +504,7 @@ Full-featured farm management platform: crop tracking, livestock records, invent
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=AfafKhadraoui&theme=radical&no-frame=true&no-bg=true&margin-w=10&column=4" width="100%" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy-tawny.vercel.app/?username=AfafKhadraoui&theme=radical&no-frame=true&no-bg=true&margin-w=10&column=4" width="100%" alt="GitHub Trophies"/>
 
 </div>
 
